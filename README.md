@@ -175,11 +175,19 @@ print(classification_report(y_test,predictions))
 ```
 
 ## OUTPUT 
-![imm1](https://user-images.githubusercontent.com/122069938/236985496-ceff00b7-7312-4372-89b0-d6636f33d6ec.png)
+![01](https://user-images.githubusercontent.com/119091638/232502831-7e61de91-e7aa-41e6-b95e-7850d8b653f2.png)
 
-![imm2](https://user-images.githubusercontent.com/122069938/236985545-34eabe6b-6c35-49d1-93bd-8c327e0c85c1.png)
+![02](https://user-images.githubusercontent.com/119091638/232502861-cc38458b-bafd-4b8c-8abd-c1fda5df1833.png)
 
-![imm3](https://user-images.githubusercontent.com/122069938/236985582-17697795-ecb8-4704-998b-b743179a216e.png)
+
+![03](https://user-images.githubusercontent.com/119091638/232502923-deaab0f7-2c7e-41b8-85d7-a93de3eb18c5.png)
+
+![04](https://user-images.githubusercontent.com/119091638/232502948-f491dcb3-5e02-4f55-af23-015c11086648.png)
+
+
+![05](https://user-images.githubusercontent.com/119091638/232502988-effb6cea-9e37-4902-88ce-afd351f4866e.png)
+
+
 
 
 ## RESULT
